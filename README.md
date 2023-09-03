@@ -1,3 +1,3 @@
 # mr-demo
-demo repository
+demo repository.
 author-maheshrathod
